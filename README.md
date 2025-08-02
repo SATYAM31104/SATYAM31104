@@ -25,5 +25,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam31104&show_icons=true&locale=en&layout=compact" alt="satyam31104" /></p>
 <p align="center">
-  <img src="https://tenor.com/en-IN/view/ميسي-messi-lio-messi-lionel-messi-ميسيضدريالمدريد-gif-26505374" />
+  <img src="https://media1.tenor.com/m/HtzZXE_KEBsAAAAC/hajime-no-ippo-ippo.gif" />
 </p>
